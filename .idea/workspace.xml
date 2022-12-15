@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54539b13-cb54-4051-9ffc-4ea9d147a807" name="Changes" comment="Feat: 22.12.12 level0">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/AddOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/ComparingTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/DivisionOfTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/GetAnswr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/SubstrationOfTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level0/GetLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level0/PrintAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level0/Protractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/level0/SumOfEven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,14 +33,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +51,9 @@
       <updated>1670413166303</updated>
       <workItem from="1670413167577" duration="1832000" />
       <workItem from="1670461387044" duration="249000" />
-      <workItem from="1670842954236" duration="1035000" />
+      <workItem from="1670842954236" duration="1673000" />
+      <workItem from="1670852045205" duration="252000" />
+      <workItem from="1671075081176" duration="1466000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: 22.12.07">
       <created>1670413413419</created>
@@ -68,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670843500754</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feat: 22.12.12 level0">
+      <created>1670843999374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670843999374</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
