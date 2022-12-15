@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54539b13-cb54-4051-9ffc-4ea9d147a807" name="Changes" comment="Feat: 22.12.12 level0">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/GetLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/PrintAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/Protractor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/SumOfEven.java" afterDir="false" />
+    <list default="true" id="54539b13-cb54-4051-9ffc-4ea9d147a807" name="Changes" comment="Feat: 22.12.15 level0">
+      <change afterPath="$PROJECT_DIR$/src/main/java/level0/AverageOfArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +35,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JSP&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +50,8 @@
       <workItem from="1670461387044" duration="249000" />
       <workItem from="1670842954236" duration="1673000" />
       <workItem from="1670852045205" duration="252000" />
-      <workItem from="1671075081176" duration="1466000" />
+      <workItem from="1671075081176" duration="3106000" />
+      <workItem from="1671141214491" duration="228000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: 22.12.07">
       <created>1670413413419</created>
@@ -76,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670843999374</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feat: 22.12.15 level0">
+      <created>1671076604406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671076604406</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +101,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feat: 22.12.07" />
     <MESSAGE value="Feat: 22.12.12 level0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: 22.12.12 level0" />
+    <MESSAGE value="Feat: 22.12.15 level0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: 22.12.15 level0" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
