@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54539b13-cb54-4051-9ffc-4ea9d147a807" name="Changes" comment="Feat: 22.12.16 level0">
-      <change afterPath="$PROJECT_DIR$/src/main/java/level0/Pizza1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54539b13-cb54-4051-9ffc-4ea9d147a807" name="Changes" comment="Feat: 22.12.17 level0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +50,7 @@
       <workItem from="1671075081176" duration="3106000" />
       <workItem from="1671141214491" duration="1472000" />
       <workItem from="1671161513421" duration="1820000" />
-      <workItem from="1671211162305" duration="402000" />
+      <workItem from="1671211162305" duration="442000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: 22.12.07">
       <created>1670413413419</created>
@@ -104,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671163634872</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feat: 22.12.17 level0">
+      <created>1671211577158</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671211577158</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +130,8 @@
     <MESSAGE value="Feat: 22.12.12 level0" />
     <MESSAGE value="Feat: 22.12.15 level0" />
     <MESSAGE value="Feat: 22.12.16 level0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: 22.12.16 level0" />
+    <MESSAGE value="Feat: 22.12.17 level0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: 22.12.17 level0" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
